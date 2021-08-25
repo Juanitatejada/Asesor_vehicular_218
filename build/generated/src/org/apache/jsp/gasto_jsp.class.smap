@@ -1,0 +1,18 @@
+SMAP
+gasto_jsp.java
+JSP
+*S JSP
+*F
++ 0 gasto.jsp
+gasto.jsp
++ 1 nav.jsp
+nav.jsp
++ 2 nav1.jsp
+nav1.jsp
+*L
+5,13:50
+1#1,49:63
+17#0,2:112
+1#2,18:114
+18#0,37:131
+*E
